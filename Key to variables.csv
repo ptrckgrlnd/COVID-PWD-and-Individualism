@@ -1,0 +1,20 @@
+﻿Variable,Definition,Source
+ROS_5,No.of deaths 5 days after 5th death,OWID/NYT
+ROS_5_log,Log10 of No.of deaths 5 days after 5th death,OWID/NYT
+ROS_10,No.of deaths 10 days after 5th death,OWID/NYT
+ROS_10_log,Log10 of No.of deaths 5 days after 5th death,OWID/NYT
+Standard density,Total population/total area,Wikipedia
+Standard density_log,Log10 of total population/totla area,Wikipedia
+Lived Density,Total population/total non-empty km^2,Alisdair Rae
+Lived Density_log10,Log10 of total population/total non-empty km^2,Alisdair Rae
+PWD_WP_v1_scaled,WorldPop country-level population-weighted density scaled to UN population data,WorldPop
+PWD_WP_v1_scaled_log,Log10 of WorldPop country-level population-weighted density scaled to UN population data,WorldPop
+Individualism,"Hofstede measure (Hofstede, 2010) ",Hofstede(2010)
+total_deaths_per_million (June 1st),Total deaths on the 1st June using Our World in Data or NYT as source,OWID/NYT
+total_deaths_per_million (June 1st)_log,Log10 of total deaths on the 1st June using Our World in Data or NYT as source,OWID/NYT
+WP_Std.Dev,Standard deviation of the raw WorldPop country/state-level data,WorldPop
+WP_Std.Dev_log,Log10 of the standard deviation of the raw WorldPop country/state-level data,WorldPop
+DB_PWD,Dave's population-weighted density,DB
+DB_PWD_log10,Log10 of Dave's population-weighted density,DB
+PWD_WP_v3,Population-weighted density derived from WorldPop 1km^2 corrected values,WorldPop
+PWD_WP_v3_log10,Log10 of population-weighted density derived from WorldPop 1km^2 corrected values,WorldPop
