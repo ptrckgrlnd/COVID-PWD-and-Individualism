@@ -1,8 +1,8 @@
 ﻿Variable,Definition,Source
 ROS_5,No.of deaths 5 days after 5th death,OWID/NYT
 ROS_5_log,Log10 of No.of deaths 5 days after 5th death,OWID/NYT
-Standard density,Total population/total area,Wikipedia
-Standard density_log,Log10 of total population/totla area,Wikipedia
+Standard density,Total population/total area (km^2),Wikipedia
+Standard density_log,Log10 of total population/total area (km^2),Wikipedia
 Lived Density,Total population/total non-empty km^2,Alisdair Rae
 Lived Density_log10,Log10 of total population/total non-empty km^2,Alisdair Rae
 PWD_WP_v1_scaled,WorldPop country-level population-weighted density scaled to UN population data,WorldPop
