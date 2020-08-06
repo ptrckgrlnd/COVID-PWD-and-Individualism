@@ -1,2 +1,2 @@
 # COVID-PWD-and-Individualism
-Source data for 'Lived population density, individualism and the spread of COVID-19'
+Source data for 'The COVID-19 pandemic as experienced by the individual'
