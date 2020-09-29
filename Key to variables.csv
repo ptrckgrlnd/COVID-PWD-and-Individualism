@@ -12,5 +12,5 @@ total_deaths_per_million (120 days after 1st case),Total deaths per million 120 
 total_deaths_per_million (120 days after 1st case)_log,Log10 of total deaths per million 120 days after 1st clinically confirmed case using Our World in Data or NYT as source,Our World in Data/NYT
 WP_Std.Dev,Standard deviation of the raw WorldPop state-level data,WorldPop
 WP_Std.Dev_log,Log10 of the standard deviation of the raw WorldPop state-level data,WorldPop
-PWD_WP_v3,Population-weighted density derived from WorldPop 1km^2 corrected values,WorldPop
-PWD_WP_v3_log10,Log10 of population-weighted density derived from WorldPop 1km^2 corrected values,WorldPop
+PWD_WP_v3,Population-weighted density derived from WorldPop data set,WorldPop
+PWD_WP_v3_log10,Log10 of population-weighted density derived from WorldPop data set,WorldPop
